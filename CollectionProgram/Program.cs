@@ -2,9 +2,13 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Collections.dosetDemo();
+            //Collections.doqueueDemo();
+            //Collections.doDictionaryDemo();
+            Collections.DoStackDemo();
+            //Collections.DoListDemo();
         }
     }
 }
